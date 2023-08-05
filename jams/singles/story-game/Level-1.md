@@ -1,26 +1,7 @@
----
-title: Crafting a Build Your Own Adventure Game!
-description: >
-    Whether you have programmed your whole life or this is your very first project, there is plenty of fun to be had with creating a Choose Your Own Adventure Game (CYOA)! This build incorporates music, interactive elements, and the ability to control all stylistic features! The most important part is to use your imagination since there is no limit to what YOU can create!
-contributor: 'necode2'
-thumbnail: 'https://cloud-pu9fw6twf-hack-club-bot.vercel.app/0ok.gif'
-timeEstimate: '30 Min'
-difficulty: 'Beginner'
-keywords: 'Game, Adventure, Pythons, CYOA, replit, storytelling, interactive'
-language: 'Python'
-presentation: ''  
-presentationPlay: ''  
-presentationPDF: ''  
-notes: ''  
-poster: ''  
-video: ''  
-slug: 'story-game' 
----
-
 ## Level 1: The Storyteller's Forge
 ### Create your Text-Based Adventure Game
 
-Insert Live Tutorial here
+{Insert Live Tutorial here}
 
 Here is the example code of what we're going to create!: https://replit.com/@ConnemaraPony/Beginner-CYOA?v=1
 
